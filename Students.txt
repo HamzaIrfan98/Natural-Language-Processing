@@ -1,0 +1,7 @@
+
+Name    Birthday      Email
+
+Hamza    17-08-1998    hamza@gmail.com
+Irfan    20-05-1980    irfan@gmail.com
+Akram    10-01-1985    akram@gmail.com
+M Adeel  20-11-1999    adeel@hotmail.com
